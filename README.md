@@ -12,7 +12,7 @@ Projeto simples que contém menu, comentários e interação utilizando JavaScri
 <br>
 
 <p align="center">
-  <img src=".github/preview.jpg" alt="Projeto Landing page">
+  <img src=".github/preview.png" alt="Projeto Landing page">
 </p>
 
 ## 🚀 Tecnologias
